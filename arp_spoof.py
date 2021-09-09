@@ -1,4 +1,4 @@
-# /usr/bin/python2.7 python
+#!/usr/bin/python2.7 python
 import sys
 import time
 import optparse
